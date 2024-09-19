@@ -20,7 +20,7 @@ We encourage all participants to contribute:
 
 1. Clone this repo:
     ```bash
-    git clone https://github.com/symbiosissolutions/data-engineering-fellowship.git
+    git clone https://github.com/symbiosissolutions/def2024.git
     ```
 
 2. Create a branch for your contribution:
