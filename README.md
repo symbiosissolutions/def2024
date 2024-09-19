@@ -4,6 +4,16 @@
 
 Welcome to the Data Engineering Fellowship Repository! This repository serves as the central hub for all participants of the Data Engineering Fellowship program. Here, you'll find all the resources from our lessons, code samples, and documentation needed throughout the fellowship.
 
+## Projects
+
+### Edusanjal
+This project focuses on scraping data from Edusanjal, a college aggregator website.
+[Edusanjal](edusanjal/EDUSANJAL.md)
+
+### OER Commons
+This project involves extracting and processing data from OER Commons.
+[OER Commons](oercommons/OERCOMMONS.md)
+
 
 ## Contributing
 We encourage all participants to contribute:
