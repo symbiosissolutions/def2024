@@ -6,11 +6,11 @@ Welcome to the Data Engineering Fellowship Repository! This repository serves as
 
 ## Projects
 
-### Edusanjal
+### College Search ETL Pipeline
 This project focuses on scraping data from Edusanjal, a college aggregator website.
 [Edusanjal](edusanjal/EDUSANJAL.md)
 
-### OER Commons
+### Personalized English Learning ETL Pipeline
 This project involves extracting and processing data from OER Commons.
 [OER Commons](oercommons/OERCOMMONS.md)
 
